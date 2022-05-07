@@ -1,1 +1,1 @@
-# petshop_api_test_csharp
+WebStore automated API tests (Technology : C#, RestSharp)
