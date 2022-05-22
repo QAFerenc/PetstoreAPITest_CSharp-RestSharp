@@ -14,14 +14,12 @@ Create the following automated API tests for DEMO PET STORE https://petstore.swa
 
 Environment :
 
-Development tools :  C# 1.44.2, RestSharp
-IDE               :  Visual Studio Code 1.67.1
-Operating system  :  Microsoft Windows 10 Pro (ver: 10.0.19044)
-Running video :
-
+- Development tools :  C# 1.44.2, RestSharp
+- IDE               :  Visual Studio Code 1.67.1
+- Operating system  :  Microsoft Windows 10 Pro (ver: 10.0.19044)
 
 Test execution : the tests were executed from Visual Studio Code with command "dotnet run"
 
-Code : - the source code executes the tests described in the task description
+Code : the source code executes the tests described in the task description
    
 
